@@ -1,4 +1,4 @@
-# Vara's Portfolio
+# koushtav's Portfolio
 
 A modern, high-performance portfolio website built with React, TypeScript, and Vite. This project showcases my skills, experience, and projects as a Full Stack Developer, featuring a unique neo-brutalist aesthetic mixed with interactive elements.
 
@@ -60,15 +60,7 @@ src/
 ├── hooks/          # Custom React hooks
 ├── App.tsx         # Main application routing & structure
 └── main.tsx        # Entry point
-```
 
-## 📬 Contact
-
-- **Author**: Pappuri Durga Vara Prasad
-- **Email**: [pappuridurgavaraprasad4pl@gmail.com](mailto:pappuridurgavaraprasad4pl@gmail.com)
-- **WhatsApp**: [+91 9550533315](https://wa.me/919550533315)
-- **GitHub**: [@VARA4u-tech](https://github.com/VARA4u-tech)
-- **LinkedIn**: [vara4u](https://linkedin.com/in/vara4u)
 
 ---
 
